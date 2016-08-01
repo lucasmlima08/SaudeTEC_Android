@@ -1,5 +1,5 @@
 # SaudeTEC Android
-Projeto (parte Android) para monitoramento de refeições com QrCode. Desenvolvido para a disciplina de Tópicos Especiais em Computação (UEPB).
+Projeto (parte Android) para monitoramento de refeições com QrCode. Desenvolvido para a disciplina de Tópicos Especiais em Computação (Ciência da Computação, UEPB).
 
 # Importante
 
